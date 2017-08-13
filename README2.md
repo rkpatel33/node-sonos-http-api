@@ -2,6 +2,7 @@
 
 Web page:
 http://localhost:5005/index.html
+http://raspi:5005/index.html
 
 # Rooms
 
