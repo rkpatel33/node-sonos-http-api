@@ -1,0 +1,40 @@
+{
+  "volume": 11,
+  "mute": false,
+  "equalizer": {
+    "bass": 3,
+    "treble": 0,
+    "loudness": true,
+    "speechEnhancement": false,
+    "nightMode": false
+  },
+  "currentTrack": {
+    "artist": "Link Wray",
+    "title": "Juke Box Mama",
+    "album": "Link Wray",
+    "albumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4",
+    "duration": 267,
+    "uri": "x-sonos-spotify:spotify%3atrack%3a5vOMYygGYn0OvLfGdrH6iE?sid=12&flags=0&sn=4",
+    "type": "track",
+    "stationName": "",
+    "absoluteAlbumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4"
+  },
+  "nextTrack": {
+    "artist": "Big Star",
+    "title": "Femme Fatale",
+    "album": "Third",
+    "albumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb",
+    "duration": 209,
+    "uri": "x-sonos-spotify:spotify%3atrack%3a1raTI2394gXxF2mwSaXF5x?sid=12&flags=0&sn=4",
+    "absoluteAlbumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb"
+  },
+  "trackNo": 3,
+  "elapsedTime": 15,
+  "elapsedTimeFormatted": "00:00:15",
+  "playbackState": "PLAYING",
+  "playMode": {
+    "repeat": "none",
+    "shuffle": false,
+    "crossfade": false
+  }
+}

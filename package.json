@@ -2,8 +2,12 @@
   "name": "sonos-http-api",
   "version": "1.4.3",
   "description": "A simple node app for controlling a Sonos system with basic HTTP requests",
+  "watch": {
+    "start": "**/*.js"
+  },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "watch": "npm-watch"
   },
   "author": "Jimmy Shimizu <jimmy@shimizu.se>",
   "repository": {
@@ -26,5 +30,8 @@
     "npm": "^2.0.0"
   },
   "main": "lib/sonos-http-api.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "npm-watch": "^0.2.0"
+  }
 }

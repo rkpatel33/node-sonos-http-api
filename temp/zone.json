@@ -1,0 +1,293 @@
+[
+  {
+    "uuid": "RINCON_B8E9377C9F1101400",
+    "coordinator": {
+      "uuid": "RINCON_B8E9377C9F1101400",
+      "state": {
+        "volume": 11,
+        "mute": false,
+        "equalizer": {
+          "bass": 3,
+          "treble": 0,
+          "loudness": true,
+          "speechEnhancement": false,
+          "nightMode": false
+        },
+        "currentTrack": {
+          "artist": "Link Wray",
+          "title": "Juke Box Mama",
+          "album": "Link Wray",
+          "albumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4",
+          "duration": 267,
+          "uri": "x-sonos-spotify:spotify%3atrack%3a5vOMYygGYn0OvLfGdrH6iE?sid=12&flags=0&sn=4",
+          "type": "track",
+          "stationName": "",
+          "absoluteAlbumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4"
+        },
+        "nextTrack": {
+          "artist": "Big Star",
+          "title": "Femme Fatale",
+          "album": "Third",
+          "albumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb",
+          "duration": 209,
+          "uri": "x-sonos-spotify:spotify%3atrack%3a1raTI2394gXxF2mwSaXF5x?sid=12&flags=0&sn=4",
+          "absoluteAlbumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb"
+        },
+        "trackNo": 3,
+        "elapsedTime": 30,
+        "elapsedTimeFormatted": "00:00:30",
+        "playbackState": "PLAYING",
+        "playMode": {
+          "repeat": "none",
+          "shuffle": false,
+          "crossfade": false
+        }
+      },
+      "roomName": "Living Room",
+      "coordinator": "RINCON_B8E9377C9F1101400",
+      "groupState": {
+        "volume": 10,
+        "mute": false
+      }
+    },
+    "members": [
+      {
+        "uuid": "RINCON_5CAAFD20BE0001400",
+        "state": {
+          "volume": 9,
+          "mute": false,
+          "equalizer": {
+            "bass": 0,
+            "treble": 0,
+            "loudness": true
+          },
+          "currentTrack": {
+            "artist": "Link Wray",
+            "title": "Juke Box Mama",
+            "album": "Link Wray",
+            "albumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4",
+            "duration": 267,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a5vOMYygGYn0OvLfGdrH6iE?sid=12&flags=0&sn=4",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4"
+          },
+          "nextTrack": {
+            "artist": "Big Star",
+            "title": "Femme Fatale",
+            "album": "Third",
+            "albumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb",
+            "duration": 209,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a1raTI2394gXxF2mwSaXF5x?sid=12&flags=0&sn=4",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb"
+          },
+          "trackNo": 3,
+          "elapsedTime": 30,
+          "elapsedTimeFormatted": "00:00:30",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Dining Room",
+        "coordinator": "RINCON_B8E9377C9F1101400",
+        "groupState": {
+          "volume": 0,
+          "mute": false
+        }
+      },
+      {
+        "uuid": "RINCON_B8E9377C9F1101400",
+        "state": {
+          "volume": 11,
+          "mute": false,
+          "equalizer": {
+            "bass": 3,
+            "treble": 0,
+            "loudness": true,
+            "speechEnhancement": false,
+            "nightMode": false
+          },
+          "currentTrack": {
+            "artist": "Link Wray",
+            "title": "Juke Box Mama",
+            "album": "Link Wray",
+            "albumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4",
+            "duration": 267,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a5vOMYygGYn0OvLfGdrH6iE?sid=12&flags=0&sn=4",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4"
+          },
+          "nextTrack": {
+            "artist": "Big Star",
+            "title": "Femme Fatale",
+            "album": "Third",
+            "albumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb",
+            "duration": 209,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a1raTI2394gXxF2mwSaXF5x?sid=12&flags=0&sn=4",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb"
+          },
+          "trackNo": 3,
+          "elapsedTime": 30,
+          "elapsedTimeFormatted": "00:00:30",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Living Room",
+        "coordinator": "RINCON_B8E9377C9F1101400",
+        "groupState": {
+          "volume": 10,
+          "mute": false
+        }
+      },
+      {
+        "uuid": "RINCON_B8E937BE4BAA01400",
+        "state": {
+          "volume": 11,
+          "mute": false,
+          "equalizer": {
+            "bass": 0,
+            "treble": 0,
+            "loudness": true
+          },
+          "currentTrack": {
+            "artist": "Link Wray",
+            "title": "Juke Box Mama",
+            "album": "Link Wray",
+            "albumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4",
+            "duration": 267,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a5vOMYygGYn0OvLfGdrH6iE?sid=12&flags=0&sn=4",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4"
+          },
+          "nextTrack": {
+            "artist": "Big Star",
+            "title": "Femme Fatale",
+            "album": "Third",
+            "albumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb",
+            "duration": 209,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a1raTI2394gXxF2mwSaXF5x?sid=12&flags=0&sn=4",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb"
+          },
+          "trackNo": 3,
+          "elapsedTime": 30,
+          "elapsedTimeFormatted": "00:00:30",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Patio",
+        "coordinator": "RINCON_B8E9377C9F1101400",
+        "groupState": {
+          "volume": 0,
+          "mute": false
+        }
+      },
+      {
+        "uuid": "RINCON_000E58FC490601400",
+        "state": {
+          "volume": 10,
+          "mute": false,
+          "equalizer": {
+            "bass": 0,
+            "treble": 0,
+            "loudness": true
+          },
+          "currentTrack": {
+            "artist": "Link Wray",
+            "title": "Juke Box Mama",
+            "album": "Link Wray",
+            "albumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4",
+            "duration": 267,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a5vOMYygGYn0OvLfGdrH6iE?sid=12&flags=0&sn=4",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4"
+          },
+          "nextTrack": {
+            "artist": "Big Star",
+            "title": "Femme Fatale",
+            "album": "Third",
+            "albumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb",
+            "duration": 209,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a1raTI2394gXxF2mwSaXF5x?sid=12&flags=0&sn=4",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb"
+          },
+          "trackNo": 3,
+          "elapsedTime": 30,
+          "elapsedTimeFormatted": "00:00:30",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Bathroom",
+        "coordinator": "RINCON_B8E9377C9F1101400",
+        "groupState": {
+          "volume": 0,
+          "mute": false
+        }
+      },
+      {
+        "uuid": "RINCON_5CAAFD20BFBC01400",
+        "state": {
+          "volume": 9,
+          "mute": false,
+          "equalizer": {
+            "bass": 0,
+            "treble": 0,
+            "loudness": true
+          },
+          "currentTrack": {
+            "artist": "Link Wray",
+            "title": "Juke Box Mama",
+            "album": "Link Wray",
+            "albumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4",
+            "duration": 267,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a5vOMYygGYn0OvLfGdrH6iE?sid=12&flags=0&sn=4",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/d9619b44a2239cc723bdb7f1df2740b54f93d4a4"
+          },
+          "nextTrack": {
+            "artist": "Big Star",
+            "title": "Femme Fatale",
+            "album": "Third",
+            "albumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb",
+            "duration": 209,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a1raTI2394gXxF2mwSaXF5x?sid=12&flags=0&sn=4",
+            "absoluteAlbumArtUri": "https://i.scdn.co/image/815227aea2b7070d483ad925050bb93cea5be4bb"
+          },
+          "trackNo": 3,
+          "elapsedTime": 30,
+          "elapsedTimeFormatted": "00:00:30",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Bedroom",
+        "coordinator": "RINCON_B8E9377C9F1101400",
+        "groupState": {
+          "volume": 0,
+          "mute": false
+        }
+      }
+    ]
+  }
+]
