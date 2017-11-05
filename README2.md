@@ -1,21 +1,28 @@
 # Rishi notes
 
-Web page:
-http://localhost:5005/index.html
-http://raspi:5005/index.html
+http://rishis-macbook-pro-2.local:5005/
 
 # Rooms
-
 LivingRoom
 DiningRoom
 Patio
 Bathroom
 Bedroom
 
+## Setup
+http://localhost:5005/
+http://localhost:5005/zones
+http://localhost:5005/favorites
+http://localhost:5005/preset/demo
+http://localhost:5005/preset/demo_nocomments
 
 ## Volume
-http://localhost:5005/living room/volume/15
+http://localhost:5005/livingroom/volume/15
+http://localhost:5005/volume/15
 http://localhost:5005/living room/volume/+1
+
+$.post('http://Rishis-MacBook-Pro-2.local:5005/livingroom/volume/10')
+curl -X GET  http://Rishis-MacBook-Pro-2.local:5005/livingroom/volume/10
 
 ## Presets
 http://localhost:5005/preset/demo

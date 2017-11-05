@@ -1,0 +1,12 @@
+/* Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .controller-container {
+    margin: 5px; }
+  .sonos-button {
+    -webkit-tap-highlight-color: transparent;
+    width: 100%;
+    height: 75px;
+    line-height: 25px;
+    font-size: 25px; } }
+
+/*# sourceMappingURL=app.css.map */
