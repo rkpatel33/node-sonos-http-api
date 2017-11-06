@@ -1,10 +1,10 @@
 {
-  "favorite": "Mazzy Star Radio",
+  "favorite": "Green Arrow Radio",
   "players": [
     // First player is coordinator
-    { "roomName": "LivingRoom", "volume": 18 },
-    { "roomName": "Bedroom", "volume": 25 },
-    { "roomName": "Bathroom", "volume": 35 }
+    { "roomName": "LivingRoom", "volume": 11 },
+    { "roomName": "Bedroom", "volume": 35 },
+    { "roomName": "Bathroom", "volume": 20 }
   ]
   // pause all zones before applying the preset
   // "pauseOthers": true,

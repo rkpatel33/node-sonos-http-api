@@ -2,9 +2,9 @@
   "favorite": "Mazzy Star Radio",
   "players": [
     // First player is coordinator
-    { "roomName": "LivingRoom", "volume": 18 },
-    { "roomName": "Bedroom", "volume": 25 },
-    { "roomName": "Bathroom", "volume": 35 }
+    { "roomName": "LivingRoom"},
+    { "roomName": "Bedroom" },
+    { "roomName": "Bathroom" }
   ]
   // pause all zones before applying the preset
   // "pauseOthers": true,

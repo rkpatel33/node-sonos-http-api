@@ -1,0 +1,8 @@
+{
+  "players": [
+    // First player is coordinator
+    { "roomName": "LivingRoom", "volume": 11 },
+    { "roomName": "Bedroom", "volume": 35 },
+    { "roomName": "Bathroom", "volume": 20 }
+  ]
+}

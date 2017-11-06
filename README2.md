@@ -2,6 +2,18 @@
 
 http://rishis-macbook-pro-2.local:5005/
 
+# Functionality
+
+- Pause
+- Play
+- Sleep timer 30min
+- Volume settings (morning, day, night)
+- All favorites (playlists, news west coast, npr)
+  - artist stations separate from news
+- Songs favorite
+- Volums up down, or different presets (half buttons)
+
+
 # Rooms
 LivingRoom
 DiningRoom
@@ -14,7 +26,6 @@ http://localhost:5005/
 http://localhost:5005/zones
 http://localhost:5005/favorites
 http://localhost:5005/preset/demo
-http://localhost:5005/preset/demo_nocomments
 
 ## Volume
 http://localhost:5005/livingroom/volume/15
